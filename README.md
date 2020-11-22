@@ -15,10 +15,10 @@ Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3
 
 The below tables show summary statistics for June and December. The following results can be derived from both tables:
 
- - The average temperature in June is more than in December. 
+ - The average temperature in June is higher than in December. 
  - The standard deviation in December is higher than June. it means that the temperatures in December are more spread out from the mean.
  - 50% of temperatures in December are higher than 71 degrees, while they are higher than 75 degrees in June.
- - Temperatures are between 64 and 85 degrees in June, while temperatures are between 56 and 83 in December.
+ - Temperatures are between 64 and 85 degrees in June, while the minimum and maximum temperatures in December are 56 and 83 degrees.
 
 ![](https://github.com/Nazanin-hub/surfs_up/blob/main/June_Temp.png)
 
