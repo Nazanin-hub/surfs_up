@@ -39,6 +39,6 @@ The below queries show the amount of precipitation for June and December:
      
 The below tables give us a summary of different statistics for the amount of precipitation in June and December.
 
-![](https://github.com/Nazanin-hub/surfs_up/blob/main/June_Temp.png)
+![](https://github.com/Nazanin-hub/surfs_up/blob/main/June_Prcp.png)
 
-![](https://github.com/Nazanin-hub/surfs_up/blob/main/Dec_Temp.png)
+![](https://github.com/Nazanin-hub/surfs_up/blob/main/Dec_Prcp.png)
