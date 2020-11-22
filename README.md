@@ -25,17 +25,19 @@ The belew tables show Summary statistics for June and December. The following re
 
 ## Summary
 
+Based on the tempretures results, tempreture in december is slightly lower than June. So, opening the surf and ice cream shop business is sustainable year-round. More queries  can help us to gather more weather data for June and December to get the most accurate results.
 
-The below queries show the amount of precipitation for June and December.
+The below queries show the amount of precipitation for June and December:
 
      results_June = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==6).all()
      df = pd.DataFrame(precipitation_June, columns=['date','June Prcp'])
      df.describe()
+     
      results_December = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==12).all()
      df = pd.DataFrame(precipitation_December, columns=['date','December Prcp'])
      df.describe()
      
-The below tables are the result of the above queries:
+The below tables give us a summary of different statistics for the amount of precipitation in June and December.
 
 ![](https://github.com/Nazanin-hub/surfs_up/blob/main/June_Temp.png)
 
