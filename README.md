@@ -24,3 +24,19 @@ The belew tables show Summary statistics for June and December. The following re
 ![](https://github.com/Nazanin-hub/surfs_up/blob/main/Dec_Temp.png)
 
 ## Summary
+
+
+The below queries show the amount of precipitation for June and December.
+
+     results_June = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==6).all()
+     df = pd.DataFrame(precipitation_June, columns=['date','June Prcp'])
+     df.describe()
+     results_December = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==12).all()
+     df = pd.DataFrame(precipitation_December, columns=['date','December Prcp'])
+     df.describe()
+     
+The below tables are the result of the above queries:
+
+![](https://github.com/Nazanin-hub/surfs_up/blob/main/June_Temp.png)
+
+![](https://github.com/Nazanin-hub/surfs_up/blob/main/Dec_Temp.png)
