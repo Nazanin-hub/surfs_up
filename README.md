@@ -13,7 +13,7 @@ Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3
 
 ## Results
 
-The below tables show summary statistics for June and December. The following results can be derived from both tables:
+The below tables show summary statistics of temperatures in June and December. The following results can be derived from the tables:
 
  - The average temperature in June is higher than in December. 
  - The standard deviation in December is higher than June. it means that the temperatures in December are more spread out from the mean.
