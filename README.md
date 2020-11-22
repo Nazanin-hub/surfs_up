@@ -17,7 +17,7 @@ The below tables show summary statistics for June and December. The following re
 
  - The average temperature in June is more than in December. 
  - The standard deviation in December is higher than June. it means that the temperatures in December are more spread out from the mean.
- - 50% of temperatures in December are higher than 71 degrees, while they are higher than 75 in June.
+ - 50% of temperatures in December are higher than 71 degrees, while they are higher than 75 degrees in June.
  - Temperatures are between 64 and 85 degrees in June, while temperatures are between 56 and 83 in December.
 
 ![](https://github.com/Nazanin-hub/surfs_up/blob/main/June_Temp.png)
