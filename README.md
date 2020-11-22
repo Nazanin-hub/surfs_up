@@ -26,7 +26,7 @@ The below tables show summary statistics for June and December. The following re
 
 ## Summary
 
-Based on the above results, the temperature in December is slightly lower than in June. So, opening the surf and ice cream shop business in Oahu could be sustainable year-round. More queries can help us to gather more weather data for June and December to get the most accurate results.
+Based on the above results, the temperature in December is slightly lower than in June. So, the surf and ice cream shop business in Oahu could be sustainable year-round. More queries can help us to gather more weather data for June and December to get the most accurate results.
 
 The below queries show the amount of precipitation for June and December:
 
