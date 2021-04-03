@@ -7,9 +7,9 @@ W.Avy who is a famous investor advised me on investing in the surf and ice cream
 
 ## Resources
 
-Data Sources: hawaii.sqlite
+ - Data Sources: hawaii.sqlite
 
-Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3
+ - Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3
 
 ## Results
 
